@@ -1,0 +1,94 @@
+2019-02-25 14:50:16.038 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on 这个男人有点帅 with PID 11472 (D:\javaCollection\idea\workspace\demo\target\classes started by wl in D:\javaCollection\idea\workspace\demo)
+2019-02-25 14:50:16.045 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-02-25 14:50:19.720 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-25 14:50:19.879 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 140ms. Found 1 repository interfaces.
+2019-02-25 14:50:20.688 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b10807de] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-02-25 14:50:21.676 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2019-02-25 14:50:21.708 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2019-02-25 14:50:21.734 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-02-25 14:50:21.734 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-25 14:50:22.055 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-25 14:50:22.055 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5775 ms
+2019-02-25 14:50:22.813 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-02-25 14:50:23.491 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-02-25 14:50:23.646 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.7.Final}
+2019-02-25 14:50:23.649 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-02-25 14:50:24.031 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-02-25 14:50:24.369 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-02-25 14:50:25.449 [main] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-02-25 14:50:26.498 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-25 14:50:27.523 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2019-02-25 14:50:27.607 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2019-02-25 14:50:27.626 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 13.045 seconds (JVM running for 14.706)
+2019-02-25 14:50:33.587 [http-nio-8081-exec-10] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-25 14:50:33.588 [http-nio-8081-exec-10] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-02-25 14:50:33.601 [http-nio-8081-exec-10] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms
+2019-02-25 14:53:55.483 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on 这个男人有点帅 with PID 4652 (D:\javaCollection\idea\workspace\demo\target\classes started by wl in D:\javaCollection\idea\workspace\demo)
+2019-02-25 14:53:55.489 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-02-25 14:53:58.549 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-25 14:53:58.826 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 235ms. Found 1 repository interfaces.
+2019-02-25 14:54:00.161 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d2cd724e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-02-25 14:54:01.311 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2019-02-25 14:54:01.345 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2019-02-25 14:54:01.375 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-02-25 14:54:01.376 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-25 14:54:01.814 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-25 14:54:01.817 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 6162 ms
+2019-02-25 14:54:02.702 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-02-25 14:54:03.321 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-02-25 14:54:03.506 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.7.Final}
+2019-02-25 14:54:03.508 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-02-25 14:54:03.854 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-02-25 14:54:04.174 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-02-25 14:54:05.339 [main] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-02-25 14:54:06.472 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-25 14:54:06.976 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2019-02-25 14:54:07.024 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2019-02-25 14:54:07.032 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 12.714 seconds (JVM running for 13.987)
+2019-02-25 14:54:12.692 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-25 14:54:12.692 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-02-25 14:54:12.707 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 15 ms
+2019-02-25 14:55:33.990 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on 这个男人有点帅 with PID 10720 (D:\javaCollection\idea\workspace\demo\target\classes started by wl in D:\javaCollection\idea\workspace\demo)
+2019-02-25 14:55:33.997 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-02-25 14:55:39.314 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2019-02-25 14:55:39.337 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-02-25 14:55:39.338 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-25 14:55:39.607 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-25 14:55:39.607 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5502 ms
+2019-02-25 14:55:40.378 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-02-25 14:55:41.008 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-02-25 14:55:41.135 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.7.Final}
+2019-02-25 14:55:41.138 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-02-25 14:55:41.417 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-02-25 14:55:41.677 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-02-25 14:55:44.341 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2019-02-25 14:55:44.437 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 11.703 seconds (JVM running for 13.045)
+2019-02-25 14:55:48.336 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-25 14:55:48.336 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-02-25 14:55:48.350 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 14 ms
+2019-02-25 14:56:17.035 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on 这个男人有点帅 with PID 11992 (D:\javaCollection\idea\workspace\demo\target\classes started by wl in D:\javaCollection\idea\workspace\demo)
+2019-02-25 14:56:17.040 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-02-25 14:56:22.207 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2019-02-25 14:56:22.235 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-02-25 14:56:22.235 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-25 14:56:22.734 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-25 14:56:22.734 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5567 ms
+2019-02-25 14:56:23.162 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-02-25 14:56:23.754 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-02-25 14:56:23.931 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.7.Final}
+2019-02-25 14:56:23.933 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-02-25 14:56:24.242 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-02-25 14:56:24.530 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-02-25 14:56:27.501 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2019-02-25 14:56:27.621 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 12.029 seconds (JVM running for 13.195)
+2019-02-25 14:56:31.223 [http-nio-8081-exec-10] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-25 14:56:31.223 [http-nio-8081-exec-10] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-02-25 14:56:31.238 [http-nio-8081-exec-10] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 15 ms
